@@ -1,0 +1,18 @@
+CupCarbon v. U-One 3.8.2
+----------------
+name:ASE_Adapter
+zoom:1
+centerposition_la:42.35308921723228
+centerposition_lo:13.397489190101624
+map:0
+display_details:true
+draw_radio_links:true
+draw_sensor_arrows:false
+radio_links_color:0
+draw_marker_arrows:false
+display_rl_distance:false
+propagation:false
+display_marker_distance:false
+display_radio_messages:true
+draw_script_file_name:true
+display_print_messages:true

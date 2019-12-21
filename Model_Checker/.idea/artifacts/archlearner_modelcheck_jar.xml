@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="archlearner-modelcheck:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/archlearner_modelcheck_jar</output-path>
+    <root id="archive" name="archlearner-modelcheck.jar">
+      <element id="module-output" name="archlearner-modelcheck" />
+      <element id="library" level="module" name="colt.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="epsgraphics.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="jas.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="jcommon.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="jfreechart.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="jhoafparser.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="json-simple-1.1.1.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="lib" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="log4j.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="lpsolve55j.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="prism.jar" module-name="archlearner-modelcheck" />
+      <element id="library" level="module" name="py4j-0.10.8.1.jar" module-name="archlearner-modelcheck" />
+    </root>
+  </artifact>
+</component>

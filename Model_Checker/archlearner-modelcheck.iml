@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://$MODULE_DIR$/lib" />
+    <libelement value="jar://$MODULE_DIR$/lib/colt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/epsgraphics.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jas.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jcommon.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jfreechart.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jhoafparser.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json-simple-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/log4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/lpsolve55j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/prism.jar!/" />
+    <libelement value="jar://$USER_HOME$/Documents/installations/py4j_jar/py4j-0.10.8.1.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="colt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/colt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="epsgraphics.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/epsgraphics.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jas.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jas.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommon.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jcommon.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jfreechart.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jhoafparser.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jhoafparser.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-simple-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json-simple-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lpsolve55j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/lpsolve55j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="prism.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/prism.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="py4j-0.10.8.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/installations/py4j_jar/py4j-0.10.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

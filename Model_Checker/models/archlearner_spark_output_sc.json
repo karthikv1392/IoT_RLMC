@@ -1,0 +1,338 @@
+{
+ "pattern" : "sc",
+  "components": [
+    "sensors",
+    "databases",
+    "displays",
+    "compute"
+  ],
+  "sensors": {
+    "S34": {
+      "remaining_energy": 1997.0042479992007,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 600,
+          "mode": "critical"
+        }
+      ],
+      "execution_mode": "critical",
+      "modes": {
+        "normal_freq": 60.0,
+        "critical_freq": 10.0,
+        "normal_limit": 10.0
+      }
+    },
+    "S33": {
+      "remaining_energy": 1996.6183111993596,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 510,
+          "mode": "critical"
+        },
+        {
+          "start": 510,
+          "end": 600,
+          "mode": "normal"
+        }
+      ],
+      "execution_mode": "normal",
+      "modes": {
+        "normal_freq": 30.0,
+        "critical_freq": 10.0,
+        "normal_limit": 5.0
+      }
+    },
+    "S42": {
+      "remaining_energy": 1996.7282935990697,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 600,
+          "mode": "normal"
+        }
+      ],
+      "execution_mode": "normal",
+      "modes": {
+        "normal_freq": 60.0,
+        "critical_freq": 10.0,
+        "normal_limit": 12.0
+      }
+    },
+    "S41": {
+      "remaining_energy": 1996.0753639992836,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 90,
+          "mode": "normal"
+        },
+        {
+          "start": 90,
+          "end": 150,
+          "mode": "critical"
+        },
+        {
+          "start": 150,
+          "end": 190,
+          "mode": "normal"
+        },
+        {
+          "start": 190,
+          "end": 330,
+          "mode": "critical"
+        },
+        {
+          "start": 330,
+          "end": 600,
+          "mode": "normal"
+        }
+      ],
+      "execution_mode": "normal",
+      "modes": {
+        "normal_freq": 30.0,
+        "critical_freq": 10.0,
+        "normal_limit": 5.0
+      }
+    },
+    "S1": {
+      "remaining_energy": 1994.6325543985768,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 600,
+          "mode": "normal"
+        }
+      ],
+      "execution_mode": "normal",
+      "modes": {
+        "normal_freq": 20.0,
+        "critical_freq": 5.0,
+        "normal_limit": 15.0
+      }
+    },
+    "S2": {
+      "remaining_energy": 1994.0262319985668,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 140,
+          "mode": "critical"
+        },
+        {
+          "start": 140,
+          "end": 600,
+          "mode": "normal"
+        }
+      ],
+      "execution_mode": "critical",
+      "modes": {
+        "normal_freq": 20.0,
+        "critical_freq": 5.0,
+        "normal_limit": 10.0
+      }
+    },
+    "S18": {
+      "remaining_energy": 1993.7904415982302,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 600,
+          "mode": "critical"
+        }
+      ],
+      "execution_mode": "critical",
+      "modes": {
+        "normal_freq": 20.0,
+        "critical_freq": 5.0,
+        "normal_limit": 10.0
+      }
+    },
+    "S20": {
+      "remaining_energy": 1993.145927198635,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 600,
+          "mode": "critical"
+        }
+      ],
+      "execution_mode": "normal",
+      "modes": {
+        "normal_freq": 20.0,
+        "critical_freq": 5.0,
+        "normal_limit": 5.0
+      }
+    },
+    "S24": {
+      "remaining_energy": 1992.7814975979345,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 80,
+          "mode": "critical"
+        },
+        {
+          "start": 80,
+          "end": 125,
+          "mode": "normal"
+        },
+        {
+          "start": 125,
+          "end": 600,
+          "mode": "critical"
+        }
+      ],
+      "execution_mode": "critical",
+      "modes": {
+        "normal_freq": 20.0,
+        "critical_freq": 5.0,
+        "normal_limit": 10.0
+      }
+    },
+    "S25": {
+      "remaining_energy": 1993.2322719985168,
+      "idle_energy": 0.0001,
+      "forecasted_modes": [
+        {
+          "start": 0,
+          "end": 600,
+          "mode": "critical"
+        }
+      ],
+      "execution_mode": "normal",
+      "modes": {
+        "normal_freq": 20.0,
+        "critical_freq": 5.0,
+        "normal_limit": 5.0
+      }
+    }
+  },
+  "databases": [
+    "S11"
+  ],
+  "displays": [
+    "S35",
+    "S43",
+    "S7",
+    "S17",
+    "S26"
+  ],
+  "compute": [
+    "S46"
+  ],
+  "edgeList": [
+    "S34_S11",
+    "S33_S11",
+    "S42_S11",
+    "S41_S11",
+    "S1_S11",
+    "S2_S11",
+    "S18_S11",
+    "S20_S11",
+    "S24_S11",
+    "S25_S11",
+    "S11_S46",
+    "S11_S26",
+    "S11_S35",
+    "S11_S43",
+    "S11_S7",
+    "S11_S17"
+  ],
+  "connections": {
+    "S34_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S33_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S42_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S41_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S1_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S2_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S18_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S20_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S24_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S25_S11": {
+      "sent": 0.0066,
+      "processing": 0.0001,
+      "received": 0.0064
+    },
+    "S11_S46": {
+      "sent": 0.0075,
+      "processing": 0.0001,
+      "received": 0.002
+    },
+    "S11_S26": {
+      "sent": 0.0042,
+      "processing": 0.0002,
+      "received": 0.002
+    },
+    "S11_S35": {
+      "sent": 0.0042,
+      "processing": 0.0002,
+      "received": 0.002
+    },
+    "S11_S43": {
+      "sent": 0.0042,
+      "processing": 0.0002,
+      "received": 0.002
+    },
+    "S11_S7": {
+      "sent": 0.0042,
+      "processing": 0.0002,
+      "received": 0.002
+    },
+    "S11_S17": {
+      "sent": 0.0042,
+      "processing": 0.0002,
+      "received": 0.002
+    }
+  },
+  "forecasted_traffic": 500.0,
+  "forecasted_energy": 6.0,
+  "energy_goal": 9.0,
+  "traffic_goal": 400.0
+}
