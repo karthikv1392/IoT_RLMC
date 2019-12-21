@@ -1,4 +1,4 @@
-_Author_ = "Karthik Vaidhyanathan"
+_Author_ = "*********"
 from  Custom_Logger import logger
 from configparser import ConfigParser
 import mysql.connector
