@@ -1,4 +1,4 @@
-This is the repository of the ICSA submission 70
+This contains the source code of the approach for architecting self-adaptive IoT systems using a combination of Reinforcement Learning and Model Checking techniques.
 
 ## Project Content Description
 1.  *CupCarbon-master_4.0* contains the modified source code of cupcarbon. The application can be started by running *cupcarbon.java*. Inside the source folder, go to senscript_functions/Functions.java, add the path for "adaptation.txt" in line 253
