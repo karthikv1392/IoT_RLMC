@@ -1,5 +1,7 @@
 This contains the source code of the approach for architecting self-adaptive IoT systems using a combination of Reinforcement Learning and Model Checking techniques. In particular, this repository provides the evidence for the experimentaion and evaluations of the approach presented in "Quantitative Verification-Aided Machine Learning: A Tandem Approach for Architecting Self-Adaptive IoT Systems"
 
+![Implementation View of the Architecture](Screenshot 2020-02-17 at 08.42.15.png)
+
 ## Project Content Description
 1.  *CupCarbon-master_4.0* contains the modified source code of cupcarbon. The application can be started by running *cupcarbon.java*. Inside the source folder, go to senscript_functions/Functions.java, add the path for "adaptation.txt" in line 253
 2.  XYZ_Adapter contains the cupCarbon project of the case study mentioned in the paper. It can be opened by opening the XYZ_Adapter.cup filefrom the 
